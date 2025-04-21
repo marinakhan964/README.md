@@ -22,7 +22,7 @@ Marina old cloning tool 2007 to 2013
 #### Run script
 ```pymarina
 git clone https://github.com/Ms.Marina964/Marina.git
-cd Marinakhan3
+cd Marina
 python3 m.py
 ```
 
