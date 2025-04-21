@@ -22,11 +22,11 @@ Marina old cloning tool 2007 to 2013
 #### Run script
 ```pymarina
 git clone https://github.com/Ms.Marina964/Marina.git
-cd Marina
-python3 marina.py
+cd Marinakhan3
+python2 m.py
 ```
 
-![modern-anonymous-concept-with-flat-design_23-2147876484](https://user-images.githubusercontent.com/81558270/128670328-3cc0b237-51c5-47c9-9f5d-3697aea3fb8d.jpg)
+![modern-anonymous-concept-with-flat-design_23-2148456564](https://user-images.githubusercontent.com/815545670/128675328-3cc0b527-41c5-47c9-9f5d-3697aea3fb8d.jpg)
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/ms.marinakhan) 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+923269286818)
