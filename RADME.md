@@ -23,7 +23,7 @@ Marina old cloning tool 2007 to 2013
 ```pymarina
 git clone https://github.com/Ms.Marina964/Marina.git
 cd Marinakhan3
-python2 m.py
+python3 m.py
 ```
 
 ![modern-anonymous-concept-with-flat-design_23-2148456564](https://user-images.githubusercontent.com/815545670/128675328-3cc0b527-41c5-47c9-9f5d-3697aea3fb8d.jpg)
